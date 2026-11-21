@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/tiny-chess-01/Antrezur/tiny-chess-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 An original 0x88-board chess engine in a single Python file (`main.py`,
-3,822 bytes, standard library only). No model calls, no network, fully
+3,755 bytes, standard library only). No model calls, no network, fully
 deterministic: fixed 100,000-node budget per move, never a clock.
 
 ## Run it
@@ -55,7 +55,7 @@ gives the same move and node count), ~2.9 s/move (limit 10 s).
 
 ## Files
 
-- `main.py` — the engine (3,822 bytes)
+- `main.py` — the engine (3,755 bytes)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — entry wallet
 
